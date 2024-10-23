@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**phrshteh/phrshteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Phrshteh 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub! 
+  
+- 🤔 **Looking for Help With**: 
+  - Collaboration on open-source Laravel projects
+  - Best practices for structuring scalable APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 **How to reach me**:
+  - [Email](phrshteh@gmail.com)
+  - [LinkedIn](www.linkedin.com/in/phrshteh)
+
+Feel free to check out my repositories and projects. I'm always open to collaborations and learning from the community. Let's build something awesome together!
