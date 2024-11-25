@@ -8,7 +8,7 @@ Welcome to my GitHub!
   - Best practices for structuring scalable APIs
 
 - 📫 **How to reach me**:
-  - [Email](phrshteh@gmail.com)
-  - [LinkedIn](www.linkedin.com/in/phrshteh)
+    - [Email](mailto:phrshteh@gmail.com)
+    - [LinkedIn](https://www.linkedin.com/in/phrshteh)
 
 Feel free to check out my repositories and projects. I'm always open to collaborations and learning from the community. Let's build something awesome together!
