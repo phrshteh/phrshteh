@@ -1,14 +1,10 @@
 
 # Hi there, I'm Phrshteh 👋
-
-Welcome to my GitHub! 
   
-- 🤔 **Looking for Help With**: 
-  - Collaboration on open-source Laravel projects
-  - Best practices for structuring scalable APIs
+- currently attending master degree in Computer Science at University of Pavia 
 
 - 📫 **How to reach me**:
-    - [Email](mailto:phrshteh@gmail.com)
+    - [Email](mailto:frmohammadi007@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/phrshteh)
 
-Feel free to check out my repositories and projects. I'm always open to collaborations and learning from the community. Let's build something awesome together!
+I'm always open to collaborations and learning from the community.
